@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 Pipfile.lock
+
+.DS_Store

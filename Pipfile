@@ -13,3 +13,5 @@ python_version = "3.9"
 
 [scripts]
 unittest = "pipenv run pytest -s"
+unittest-log = "pipenv run pytest -s --log-cli-level=20"
+unittest-all-log = "pipenv run pytest -s --log-cli-level=10"
